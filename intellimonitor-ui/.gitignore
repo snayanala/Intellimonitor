@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+
+# Playwright
+.playwright/
+
+# Node
+node_modules/
+dist/
+build/
+
+# VS
+.vs/
+*.user
+*.suo
+
